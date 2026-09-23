@@ -1,0 +1,6 @@
+SELECT hr.employees.salary, hr.employees.hire_date, hr.departments.department_name, hr.jobs.job_title
+FROM hr.EMPLOYEES 
+LEFT JOIN hr.JOBS
+ON JOBS.JOB_ID = EMPLOYEES.JOB_ID
+LEFT JOIN hr.DEPARTMENTS
+ON DEPARTMENTS.DEPARTMENT_ID = EMPLOYEES.DEPARTMENT_ID
