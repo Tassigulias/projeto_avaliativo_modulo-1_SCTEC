@@ -1,4 +1,4 @@
-SELECT hr.employees.salary, hr.employees.hire_date, hr.departments.department_name, hr.jobs.job_title
+SELECT hr.employees.salary,hr.EMPLOYEES.EMPLOYEE_ID, hr.EMPLOYEES.HIRE_DATE, hr.departments.department_name, hr.jobs.job_title
 FROM hr.EMPLOYEES 
 LEFT JOIN hr.JOBS
 ON JOBS.JOB_ID = EMPLOYEES.JOB_ID
