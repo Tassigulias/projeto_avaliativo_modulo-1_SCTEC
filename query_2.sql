@@ -10,3 +10,4 @@ LEFT JOIN hr.countries
 ON hr.countries.country_id = hr.locations.country_id
 LEFT JOIN hr.regions
 ON hr.regions.region_id = hr.countries.region_id
+WHERE country_name is not NULL
