@@ -30,7 +30,18 @@ Foram realizados os seguintes procedimentos nos dados:
   * Terceiro quartil: 8950, significa que 75% dos funcionários recebem até 8950.
   * Máximo: 24000, representa o maior salário da empresa.
  
-## 💻 Como rodar
+## 💻 Como Executar o Projeto
+
+Esta análise foi desenvolvida no **Google Colab** e os dados são carregados automaticamente via GitHub.
+
+### Você pode abrir o projeto diretamente no Colab para executar o código:
+1. Acesse o arquivo `projeto_avaliativo_T3_tassiana_gulias.ipynb` aqui no repositório.
+2. Clique no link abaixo para abrir direto no Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tassigulias/projeto_avaliativo_modulo-1_SCTEC/blob/main/projeto_avaliativo_T3_tassiana_gulias.ipynb)
+
+3. No menu superior do Colab, clique em **Ambiente de execução** > **Executar tudo** (ou use o atalho `Ctrl + F9`).
+
 
 ## 💡 Insights
 Análise de salários por departamento (gráfico)
@@ -64,4 +75,5 @@ Foram utilizados recursos de inteligência artificial:
 * Para passar a coluna data_da_contratacao para DATETIME
 * Para formular o código de salários de um mesmo cargo por data de contratação.
 * Para mudar as cores nos gráficos e ver a paleta de nomes.
-* Para organizar a Estrutura do Projeto no README em forma de árvore.
+* Para organizar a "Estrutura do Projeto" no README em forma de árvore.
+* Na etapa de "Como Executar o Projeto" aqui no README.
