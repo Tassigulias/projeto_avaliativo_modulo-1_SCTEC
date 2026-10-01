@@ -1,7 +1,7 @@
 # Projeto Avaliativo Módulo 1 - SCTEC
 Essa Análise Exploratória de Dados (AED) contempla a avaliação do Módulo I do curso Visualização de Dados e Business Intelligence do SCTEC. Nela, são analisados dados das tabelas do esquema HR do banco FreeSQL. São elas: hr.regions, hr.countries, hr.locations, hr.departments, hr.jobs e hr.employees; que juntas contém as seguintes colunas: salário, código do funcionário, data da contratação, nome do departamento, cargo, nome do país e nome da região.
 
-## Objetivos
+## 🎯 Objetivos
 * Analisar a qualidade e usabilidade dos dados
 * Tratar dados nulos ou duplicados
 * Identificar salários dos funcionários por departamento e cargo
@@ -11,7 +11,7 @@ Essa Análise Exploratória de Dados (AED) contempla a avaliação do Módulo I 
 * Verificação de dados nulos e inexistentes
 * Criação de gráficos para melhor visualização dos resultados
 
-## Tratamento dos dados
+## 🛠️ Tratamento dos dados
 Foram realizados os seguintes procedimentos nos dados:
 * Aplicação de filtro para eliminar nulos
 * Alteração dos nomes das colunas
@@ -26,9 +26,9 @@ Foram realizados os seguintes procedimentos nos dados:
   * Terceiro quartil: 8950, significa que 75% dos funcionários recebem até 8950.
   * Máximo: 24000, representa o maior salário da empresa.
  
-## Como rodar
+## 💻 Como rodar
 
-## Insights
+## 💡 Insights
 Análise de salários por departamento (gráfico)
 
 
@@ -40,7 +40,7 @@ Análise de funcionários por região (gráfico)
 
 
 
-## Estrutura do Projeto
+## 📂 Estrutura do Projeto
 ```text
 projeto-avaliativo/
 ├── query_1.csv
@@ -53,7 +53,7 @@ projeto-avaliativo/
 └── README.md
 ```
 
-## Observações
+## 🤖 Observações
 Foram utilizados recursos de inteligência artificial:
 
 * No JOIN do arquivo query_2.sql
