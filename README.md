@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo_for_GitHub.png" alt="RHAnalysis Logo" width="250">
+</p>
+
 # Projeto Avaliativo Módulo 1 - SCTEC
 Essa Análise Exploratória de Dados (AED) contempla a avaliação do Módulo I do curso Visualização de Dados e Business Intelligence do SCTEC. Nela, são analisados dados das tabelas do esquema HR do banco FreeSQL. São elas: hr.regions, hr.countries, hr.locations, hr.departments, hr.jobs e hr.employees; que juntas contém as seguintes colunas: salário, código do funcionário, data da contratação, nome do departamento, cargo, nome do país e nome da região.
 
