@@ -38,9 +38,8 @@ Análise de salários por cargo (gráfico)
 Análise de funcionários por região (gráfico)
 
 
-## Projeto
-Os arquivos que compõem o Projeto são:
-
+## Estrutura do Projeto
+```text
 projeto-avaliativo/
 ├── query_1.csv
 ├── query_2.csv
