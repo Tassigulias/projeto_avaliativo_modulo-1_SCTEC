@@ -1,6 +1,8 @@
 # Projeto Avaliativo Módulo 1 - SCTEC
 Essa Análise Exploratória de Dados (AED) contempla a avaliação do Módulo I do curso Visualização de Dados e Business Intelligence do SCTEC. Nela, são observados e analisados dados da tabela do esquema HR do banco FreeSQL.
 
+## Como rodar
+
 ## Objetivos
 * Analisar a qualidade e usabilidade dos dados
 * Tratar dados nulos ou duplicados
@@ -37,13 +39,13 @@ Foram realizados os seguintes procedimentos nos dados:
   * Máximo: 24000, representa o maior salário da empresa.
 
 ## Análise exploratória dos dados
-Análise de salários por departamento
+Análise de salários por departamento (gráfico)
 
 
-Análise de salários por cargo
+Análise de salários por cargo (gráfico)
 
 
-Análise de funcionários por região
+Análise de funcionários por região (gráfico)
 
 
 ## Projeto
