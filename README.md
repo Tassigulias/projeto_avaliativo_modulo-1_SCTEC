@@ -45,6 +45,9 @@ Esta análise foi desenvolvida no **Google Colab** e os dados são carregados au
 
 ## 💡 Insights
 Análise de salários por departamento (gráfico)
+<p align="center">
+  <img src="salario_cargo.png" alt="Gráfico de Salário por Cargo" width="600">
+</p>
 
 
 Análise de salários por cargo (gráfico)
