@@ -44,13 +44,16 @@ Esta análise foi desenvolvida no **Google Colab** e os dados são carregados au
 
 
 ## 💡 Insights
-Análise de salários por departamento (gráfico)
+Análise de salários por cargo
 <p align="center">
   <img src="salario_cargo.png" alt="Gráfico de Salário por Cargo" width="600">
 </p>
+Nessa análise, podemos verificar que o presidente recebe o maior salário e os menores são os cargos de auxiliar de estoque e auxiliar de compras. Esses dois últimos cargos somam 25 funcionários e fazem parte do primeiro quartil, ou seja, estão entre os 25% dos funcionários que ganham até 3100.
 
-
-Análise de salários por cargo (gráfico)
+Análise de salários por departamento
+<p align="center">
+  <img src="salario_departamento.png" alt="Gráfico de Salário por Departamento" width="600">
+</p>
 
 
 Análise de funcionários por região (gráfico)
