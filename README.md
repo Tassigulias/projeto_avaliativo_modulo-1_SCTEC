@@ -14,7 +14,7 @@ Essa Análise Exploratória de Dados (AED) contempla a avaliação do Módulo I 
 ## Tratamento dos dados
 Foram realizados os seguintes procedimentos nos dados:
 * Aplicação de filtro para eliminar nulos
-* Alteração do nomes das colunas
+* Alteração dos nomes das colunas
 * Conversão da coluna data da contratação para datetime
 * Análise exploratória da coluna salário, onde foram obtidos os seguintes resultados:
   * Contagem: 106, refere-se ao número de valores não nulos daquela coluna.
