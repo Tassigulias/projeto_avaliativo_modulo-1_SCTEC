@@ -48,7 +48,8 @@ Esta análise foi desenvolvida no **Google Colab** e os dados são carregados au
 <p align="center">
   <img src="salario_departamento.png" alt="Gráfico de Salário por Departamento" width="600">
 </p>
-Na análise dos departamentos, verificamos que os setores de logística e de compras são os que menos recebem. E os setores de gerência e contabilidade são os que mais ganham, estando entre os 25% dos funcionários com salários mais altos.
+
+Na análise por departamentos, verifica-se que os setores de Logística e Compras apresentam os menores níveis salariais. Em contrapartida, os setores de Gerência/Executivo e Contabilidade possuem as maiores remunerações da empresa, posicionando-se no terceiro quartil, ou seja, entre os 25% dos funcionários com os salários mais altos.
 
 ### Análise de salários por cargo
 <p align="center">
@@ -58,6 +59,13 @@ Na análise dos departamentos, verificamos que os setores de logística e de com
 Nesta análise, observa-se que o Presidente possui o maior salário da organização, enquanto as remunerações mais baixas concentram-se nos cargos operacionais e administrativos de Auxiliar de Estoque e Auxiliar de Compras. 
 
 Estes dois últimos cargos somam 25 funcionários e estão posicionados no primeiro quartil, representando os 25% da empresa com rendimentos até 3.100. O elevado desvio padrão identificado nos dados é explicado pela forte dispersão gerada pelo salário do Presidente (24.000), que atua como um *outlier* em relação à distribuição salarial geral.
+
+### Análise de salários por antiguidade
+<p align="center">
+  <img src="salario_antiguidade.png" alt="Gráfico de Salário por Antiguidade" width="600">
+</p>
+
+Com o auxílio do gráfico de dispersão, observa-se que os salários não progridem exclusivamente em função do tempo de empresa do colaborador. Essa distribuição indica que a política de contratação contempla admissões em diferentes níveis de senioridade (como júnior, pleno e sênior), independentemente do tempo de casa.
 
 ### Análise de salários por país
 <p align="center">
