@@ -83,6 +83,6 @@ Foram utilizados recursos de inteligência artificial:
 * No JOIN do arquivo query_2.sql
 * Para passar a coluna data_da_contratacao para DATETIME
 * Para formular o código de salários de um mesmo cargo por data de contratação.
-* Para mudar as cores nos gráficos e ver a paleta de nomes.
+* Para mudar as cores e tamanhos nos gráficos e ver a paleta de nomes.
 * Para organizar a "Estrutura do Projeto" no README em forma de árvore.
 * Na etapa de "Como Executar o Projeto" aqui no README.
