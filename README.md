@@ -60,7 +60,9 @@ Nesta análise, observa-se que o Presidente possui o maior salário da organiza�
 Estes dois últimos cargos somam 25 funcionários e estão posicionados no primeiro quartil, representando os 25% da empresa com rendimentos até 3.100. O elevado desvio padrão identificado nos dados é explicado pela forte dispersão gerada pelo salário do Presidente (24.000), que atua como um *outlier* em relação à distribuição salarial geral.
 
 ### Análise de funcionários por região (gráfico)
-
+<p align="center">
+  <img src="salario_pais.png" alt="Gráfico de Salário por Região" width="600">
+</p>
 
 
 
