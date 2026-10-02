@@ -59,11 +59,14 @@ Nesta análise, observa-se que o Presidente possui o maior salário da organiza�
 
 Estes dois últimos cargos somam 25 funcionários e estão posicionados no primeiro quartil, representando os 25% da empresa com rendimentos até 3.100. O elevado desvio padrão identificado nos dados é explicado pela forte dispersão gerada pelo salário do Presidente (24.000), que atua como um *outlier* em relação à distribuição salarial geral.
 
-### Análise de funcionários por região (gráfico)
+### Análise de salários por país
 <p align="center">
   <img src="salario_pais.png" alt="Gráfico de Salário por Região" width="600">
 </p>
 
+Na análise geográfica, observa-se que a Alemanha apresenta a maior média salarial. Contudo, trata-se de um viés estatístico provocado pelo tamanho reduzido da amostra: o país conta com apenas 1 funcionário (Representante de Relações Públicas, com salário de 10.000). Esse detalhe demonstra que a média, isoladamente, não reflete o panorama salarial do país.
+
+Por outro lado, os Estados Unidos apresentam a menor média salarial, mas concentram o maior volume de colaboradores. Isso indica que o país abriga as operações operacionais da empresa — como os setores de Logística e Compras —, onde há maior volume de cargos de entrada.
 
 
 ## 📂 Estrutura do Projeto
