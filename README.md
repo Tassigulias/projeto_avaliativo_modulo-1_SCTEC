@@ -89,6 +89,12 @@ projeto-avaliativo/
 ├── projeto_avaliativo_T3_tassiana_gulias.ipynb
 └── README.md
 ```
+## 📹 Apresentação do Projeto
+
+Assista à explicação detalhada da análise de dados e metodologia no vídeo abaixo:
+
+👉 **[Clique aqui para assistir à apresentação no YouTube](https://www.youtube.com/watch?v=18xUXbKYyLM)**
+
 
 ## 🤖 Observações
 Foram utilizados recursos de inteligência artificial:
